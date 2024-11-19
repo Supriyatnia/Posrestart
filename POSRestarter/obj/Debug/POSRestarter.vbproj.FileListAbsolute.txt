@@ -1,0 +1,15 @@
+C:\Users\beni.swadharma\Documents\Visual Studio 2012\Projects\POSRestarter\POSRestarter\obj\Debug\POSRestarter.Resources.resources
+C:\Users\beni.swadharma\Documents\Visual Studio 2012\Projects\POSRestarter\POSRestarter\obj\Debug\POSRestarter.vbproj.GenerateResource.Cache
+D:\Backoff\POSRestarter.exe
+D:\Backoff\POSRestarter.pdb
+D:\Backoff\POSRestarter.xml
+C:\Users\beni.swadharma\Documents\Visual Studio 2012\Projects\POSRestarter\POSRestarter\obj\Debug\POSRestarter.exe
+C:\Users\beni.swadharma\Documents\Visual Studio 2012\Projects\POSRestarter\POSRestarter\obj\Debug\POSRestarter.xml
+C:\Users\beni.swadharma\Documents\Visual Studio 2012\Projects\POSRestarter\POSRestarter\obj\Debug\POSRestarter.pdb
+D:\GIT INTERNAL SD7\POSRestarter\POSRestarter\obj\Debug\POSRestarter.vbproj.AssemblyReference.cache
+D:\GIT INTERNAL SD7\POSRestarter\POSRestarter\obj\Debug\POSRestarter.Resources.resources
+D:\GIT INTERNAL SD7\POSRestarter\POSRestarter\obj\Debug\POSRestarter.vbproj.GenerateResource.cache
+D:\GIT INTERNAL SD7\POSRestarter\POSRestarter\obj\Debug\POSRestarter.vbproj.CoreCompileInputs.cache
+D:\GIT INTERNAL SD7\POSRestarter\POSRestarter\obj\Debug\POSRestarter.exe
+D:\GIT INTERNAL SD7\POSRestarter\POSRestarter\obj\Debug\POSRestarter.xml
+D:\GIT INTERNAL SD7\POSRestarter\POSRestarter\obj\Debug\POSRestarter.pdb
